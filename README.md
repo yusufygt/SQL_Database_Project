@@ -43,7 +43,7 @@ Amaç; **ilişkisel veritabanı modelinin**, **ER Diyagramı (Entity–Relations
 ---
 
 ## 📁 Proje Yapısı
-SQL_Database_Project/
+'''SQL_Database_Project/
 ├── README.md
 ├── Rapor_Analiz/
 │   └── ARAÇ KİRALAMA SİSTEMİ.docx
@@ -57,7 +57,7 @@ SQL_Database_Project/
 │   └── kira_sorgu.sql
 └── Veri_Tabanı_Tasarımı(ER Diyagramı)/
     ├── ER_Diyagramı.drawio
-    └── veritabani_tasarimi_tablolar.docx
+    └── veritabani_tasarimi_tablolar.docx'''
 
 
 
