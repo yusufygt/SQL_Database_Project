@@ -43,8 +43,6 @@ Amaç; **ilişkisel veritabanı modelinin**, **ER Diyagramı (Entity–Relations
 ---
 
 ## 📁 Proje Yapısı
-sql
-Kodu kopyala
 SQL_Database_Project/
 ├── README.md
 ├── Rapor_Analiz/
