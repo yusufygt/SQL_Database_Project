@@ -40,29 +40,6 @@ Amaç; **ilişkisel veritabanı modelinin**, **ER Diyagramı (Entity–Relations
 - Foreign Key ve Primary Key ilişkilerini anlama  
 - Temel SQL komutlarının (SELECT, JOIN, GROUP BY) uygulanması  
 
----
-
-## 📁 Proje Yapısı
-SQL_Database_Project/
-├── README.md
-├── Rapor_Analiz/
-│   └── ARAÇ KİRALAMA SİSTEMİ.docx
-├── SQL_Tabloları_ve_Veriler/
-│   ├── CREATE TABLE komutları.pdf
-│   ├── INSERT INTO komutları.pdf
-│   ├── SQL_tablo/
-│   │   ├── Arac.xlsx
-│   │   ├── Musteri.xlsx
-│   │   ├── Kiralama.xlsx
-│   │   └── ...
-│   └── kira_sorgu.sql
-└── Veri_Tabanı_Tasarımı(ER Diyagramı)/
-    ├── ER_Diyagramı.drawio
-    └── veritabani_tasarimi_tablolar.docx
-
-
-
----
 
 ## 👨‍💻 Geliştirici
 **Yusuf Yiğit**  
