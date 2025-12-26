@@ -34,7 +34,7 @@ Amaç; **ilişkisel veritabanı modelinin**, **ER Diyagramı (Entity–Relations
 
 ---
 
-## 🧠 Öğrenme Odakları
+## Öğrenme Odakları
 - ER Diyagramı oluşturma  
 - İlişkisel tablo yapısı kurma  
 - Foreign Key ve Primary Key ilişkilerini anlama  
@@ -43,11 +43,10 @@ Amaç; **ilişkisel veritabanı modelinin**, **ER Diyagramı (Entity–Relations
 
 ## 👨‍💻 Geliştirici
 **Yusuf Yiğit**  
-🎓 Konya Teknik Üniversitesi – Bilgisayar Mühendisliği  
 🔗 [GitHub](https://github.com/yusufygt)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yusufyigitt/)  
 
 ---
 
-## 🚀 Projeyi Görüntüle  
+##  Projeyi Görüntüle  
 [SQL_Database_Project on GitHub](https://github.com/yusufygt/SQL_Database_Project)
